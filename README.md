@@ -15,6 +15,6 @@
   + Construct neural networks using torch.nn package
   + Define the network architecture, forward pass, loss function, and optimizer. The backward pass is automatically computed.
   
- - [Trainnig a CNN classifier](https://github.com/quangddt/Deep-Learning-with-PyTorch/blob/master/cifar10_tutorial.ipynb)
+- [Trainnig a CNN classifier](https://github.com/quangddt/Deep-Learning-with-PyTorch/blob/master/cifar10_tutorial.ipynb)
   + Use built in dataloader to load data into an iterator that generates mini-batchs at each epoch.
   + Use GPU simply by converting network parameters and input data into cuda data types.
