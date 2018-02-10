@@ -1,8 +1,9 @@
-# Deep-Learning-with-PyTorch
 <p align="center"> 
 <img src="pytorch.png">
 </p>
+
 ## Tutorials
+
 - [Tensor](https://github.com/quangddt/Deep-Learning-with-PyTorch/blob/master/tensor_tutorial.ipynb)
   + Tensor is a replacement for Numpy in a sense that what you can do on Numpy arrays, you can do the same thing on Tensor.
   + One can easily convert between Tensor and Numpy.
